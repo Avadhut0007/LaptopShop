@@ -27,21 +27,21 @@ Key Features:
  - A dedicated admin panel for managing the entire system, including products, customers, orders, and inventory.
 
 
-Backend:
-Java
+Backend:<br>
+Java<br>
 Spring Boot
-Hibernate ORM (Object-Relational Mapping)
-RESTful APIs for communication with the frontend
-
-Frontend:
+Hibernate ORM (Object-Relational Mapping)<br>
+RESTful APIs for communication with the frontend<br>
+<br>
+Frontend:<br>
 Angular<br>
-TypeScript
-HTML/CSS
-Angular Material for UI components
+TypeScript<br>
+HTML/CSS<br>
+Angular Material for UI components<br>
 
-Database:
-MySQL
+Database:<br>
+MySQL<br>
 
-Development Tools:
-Eclipse for Java development
-Visual Studio Code for Angular development
+Development Tools:<br>
+Eclipse for Java development<br>
+Visual Studio Code for Angular development<br>
